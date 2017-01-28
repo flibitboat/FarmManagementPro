@@ -19,6 +19,9 @@ div#dashboard {
   background-color: #f5f5f5;
   border-right: 1px solid #eee; }
 
+.main {
+  padding: 40px; }
+
 .placeholder {
   text-align: center; }
   .placeholder img {
